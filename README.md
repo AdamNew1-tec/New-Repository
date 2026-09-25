@@ -1,4 +1,4 @@
-s# New-Repository
+# New-Repository
 Introductory repository for tutorial coding sessions and exploration of GitHub features
 
 ## BIOL 343 CC2
