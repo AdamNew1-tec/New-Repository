@@ -1,5 +1,5 @@
-# New-Repository
-Introductory repository for tutorial coding sessions and exploration of GitHub
+s# New-Repository
+Introductory repository for tutorial coding sessions and exploration of GitHub features
 
 ## BIOL 343 CC2
 This repository contains the files related to project CC2, completed on September 24th 2026.
